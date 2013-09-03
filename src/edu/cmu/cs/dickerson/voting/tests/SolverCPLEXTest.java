@@ -16,7 +16,7 @@ import edu.cmu.cs.dickerson.voting.solvers.Solver;
 import edu.cmu.cs.dickerson.voting.solvers.SolverCPLEX;
 import edu.cmu.cs.dickerson.voting.solvers.exceptions.SolverException;
 
-public class CPLEXSimple {
+public class SolverCPLEXTest {
 
 	// This simple test is from the Caragiannis et al. AIJ paper
 	
